@@ -1,7 +1,7 @@
 # 🌱 Projeto Agrinho - 2025  
-## **"Ações que Transformam o Mundo"**
+## **"Fetejando a conexão campo cidade"**
 
-### 👩‍💼 Autora: Maria Eduarda Luciano de Olveira 
+### 👩‍💼 Autora: Maria Eduarda Luciano de Oliveira 
 ### 🏫 Escola: Colégio Estadual José Siqueira Rosas  
 ### 📍 Município: Rosário do Ivaí - PR
 
@@ -9,7 +9,7 @@
 
 ## 📘 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da edição 2025 do **Programa Agrinho**, com o tema **“Ações que Transformam o Mundo”**. O objetivo é mostrar como pequenas atitudes no nosso dia a dia podem gerar grandes transformações na sociedade, no meio ambiente e no futuro do nosso planeta.
+Este projeto foi desenvolvido como parte da edição 2025 do **Programa Agrinho**, com o tema **"Festejando a conexão campo cidade”**. O objetivo é mostrar como pequenas atitudes no nosso dia a dia podem gerar grandes transformações na sociedade, no meio ambiente e no futuro do nosso planeta.
 
 ---
 
