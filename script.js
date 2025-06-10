@@ -447,7 +447,7 @@ function showMediaUploadModal() {
                 <textarea id="media-description" placeholder="Conte um pouco sobre esta foto/vídeo..."></textarea>
                 
                 <label for="media-location">Localização:</label>
-                <input type="text" id="media-location" placeholder="Ex: Interior de São Paulo">
+                <input type="text" id="media-location" placeholder="Ex: Interior do Paraná">
                 
                 <label for="media-category">Categoria:</label>
                 <select id="media-category">
